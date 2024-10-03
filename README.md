@@ -1,5 +1,5 @@
 ## library_system
-This Django project provides a simple API to manage a bookstore's collection of books. It includes CRUD operations for books, with validations on ISBN and price. Pagination is implemented for the list view, allowing efficient navigation through large datasets.
+This Django project provides a simple API to manage a bookstore's collection of books. It includes CRUD operations for books, with validations on ISBN and price. Pagination is implemented for the list view.
 
 ## Table of Contents
 - [Features](#features)
