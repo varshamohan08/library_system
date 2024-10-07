@@ -24,7 +24,7 @@ This Django project provides a simple API to manage a bookstore's collection of 
    ```
 2. Navigate to the project directory:
    ```
-   cd your-repo-name
+   cd library_system
    ```
 3. Create and activate a virtual environment:
    ```
